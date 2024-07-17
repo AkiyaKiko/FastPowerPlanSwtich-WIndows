@@ -15,8 +15,7 @@ pyinstaller ./main.spec
 ```
 
 ## Usage
-```
-Step 1. Create your own power plans in control panel [Link](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/create-a-custom-power-plan-technicalreference?view=windows-11#creating-a-customized-power-plan)
 
-Step 2. Open the .exe file directly and swtich your plans
-```
+- Step 1. Create your own power plans in control panel [Link](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/create-a-custom-power-plan-technicalreference?view=windows-11#creating-a-customized-power-plan)  
+
+- Step 2. Open the .exe file directly and swtich your plans
